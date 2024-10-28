@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shishira21
 - 👀 I’m interested in ...cloud computing
-- 🌱 I’m currently learning ...cloud
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...AWS cloud computing
+- 💞️ I’m looking to collaborate on ...cloud
 - 📫 How to reach me ...0096896002345
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
